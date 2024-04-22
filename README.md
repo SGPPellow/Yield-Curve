@@ -4,6 +4,6 @@
 
 ### Maturity:
 
-1.  **Bonds**: more than 10 years.
-2.  **Notes**: 2 to 10 years.
-3.  **Bill**: less than a year.
+**Bonds**: more than 10 years.
+**Notes**: 2 to 10 years.
+**Bill**: less than a year.
