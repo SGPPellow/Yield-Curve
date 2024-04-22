@@ -20,3 +20,5 @@ Lenders and bond investors who commit to tying up their money for longer periods
 
 The extra compensation that lenders and investors demand for making long-term loans is known as the term premium.
 With a positive term premium, the yield curve usually slopes upwards.
+
+![Normal Yield Curve](<https://www.investopedia.com/thmb/HHYtETE0JuKqbBPcmhyIxD6jidE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YieldCurve2-362f5c4053d34d7397fa925c602f1d15.png>)
